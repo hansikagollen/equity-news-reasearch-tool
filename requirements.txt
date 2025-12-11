@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+pypdf
+trafilatura
+python-multipart
+requests
+websockets
+faiss-cpu==1.7.4
