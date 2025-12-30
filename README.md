@@ -164,30 +164,4 @@ npm install
 npm run dev
 
 
-cd frontend
-npm install
-npm run dev
 
-
-
-⚠️ Notes
-
-This project focuses on retrieval and semantic search, not text generation.
-
-No external paid LLM APIs are used.
-
-Designed to be lightweight, fast, and fully local.
-
-A generative LLM can be easily added on top of this retrieval layer in the future.
-
-🎯 Key Takeaways
-
-Demonstrates real-world RAG retrieval architecture
-
-Shows practical use of vector databases
-
-Implements real-time data ingestion
-
-Clean separation of frontend and backend
-
-Scalable and production-style design
